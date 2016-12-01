@@ -4,6 +4,6 @@ body {
 
 h1 {
     text-align: center;
-    text-transform: uppercase;
     color: blue;
+    text-transform: lowercase;
 }
